@@ -1,6 +1,6 @@
 # 📱 mobile-testing
 
-During the testing of [the mobile application (task tracker)](https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing), I have prepared the following documentation:
+During the testing of [the mobile application (task tracker)](https://drive.google.com/file/d/1IkqWnm6z293ETG0MdveKTjrsrWd7WQHz/view?usp=sharing) on real device and Android Studio, I have prepared the following documentation:
 
 * [Checklist](https://docs.google.com/spreadsheets/d/1Ollanb5PcTo-l3ADrIm7a3v_7rXzomSwlrqQuGpwyD8/edit?usp=sharing) for testing all the application's features
 * [17 test cases in the QASE system](https://drive.google.com/file/d/1l82UuFyZvAs3cyn8zQ31YZwWuQSOu2WE/view?usp=share_link)
